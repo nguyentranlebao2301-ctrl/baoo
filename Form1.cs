@@ -24,7 +24,7 @@ namespace DemoWinform
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello Inno Setup!");
+            MessageBox.Show("Hello welcome to my program");
         }
     }
 }
